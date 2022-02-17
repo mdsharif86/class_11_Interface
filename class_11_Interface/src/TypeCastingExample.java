@@ -45,9 +45,6 @@ public class TypeCastingExample {
 		float m;
 		m = (float) 45.67;  //casting
 		m =  45.67f;   // casting
-		
-		
-
 	}//main
 
 }//class
